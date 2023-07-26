@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\OOP_GetSet\obj\Debug\OOP_GetSet.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\OOP_GetSet\obj\Debug\OOP_GetSet.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\OOP_GetSet\obj\Debug\OOP_GetSet.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\OOP_GetSet\bin\Debug\OOP_GetSet.exe.config
+D:\Raven\Practice Exercise\C#\OOP_GetSet\bin\Debug\OOP_GetSet.exe
+D:\Raven\Practice Exercise\C#\OOP_GetSet\bin\Debug\OOP_GetSet.pdb
+D:\Raven\Practice Exercise\C#\OOP_GetSet\obj\Debug\OOP_GetSet.exe
+D:\Raven\Practice Exercise\C#\OOP_GetSet\obj\Debug\OOP_GetSet.pdb
